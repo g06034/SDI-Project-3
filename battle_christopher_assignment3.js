@@ -171,6 +171,7 @@
   console.log("You head off to the tower where the dragon lay.");
   console.log("The dragon awakens as you approach the tower.");
   console.log("Let\'s make sure you have your " + weapons + ".");
+  console.log("You check to make sure you have your weapons.");
   console.log("The " + enemy1 + " is ready to devour you.");
   console.log("The batle begins. You waste no time and strike first.");
 
