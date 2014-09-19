@@ -31,7 +31,7 @@
   var redDragonStrike = 10; /* Number Variable */
   var blueDragonStrike = 15; /* Number Variable */
   var fullArmor = sword + shield; /* Number Variable */
-  var weapons = ["sword", " and shield"]; /* Variable for Array
+  var weapons = ["sword", " and shield"]; /* Variable for Array */
 
 
 
