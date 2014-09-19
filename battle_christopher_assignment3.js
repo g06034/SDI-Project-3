@@ -1,4 +1,7 @@
- //alert("JavaScript works!");
+
+
+ // alert("JavaScript works!");
+
 
  /* Christopher Battle
     September 18, 2014
@@ -8,6 +11,7 @@
 
 
   // Global Variables
+
 
   var gameName = "Destiny"; /* String Variable */
   var classType = "Warlock"; /* String Variable */
@@ -79,7 +83,7 @@
 
 
 
-  //Boolean Conditional
+  // Boolean Conditional
 
 
   warlockChosen = confirm("Are you choosing the Warlock class?");
