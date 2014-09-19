@@ -102,7 +102,7 @@
   console.log("You attack with " + attackPrompt + "!");
 
 
-  //String Conditional
+  // String Conditional
 
 
   if (attackPrompt === "magic") {
@@ -137,7 +137,7 @@
   };
 
 
-// Functions
+  // Functions
 
 
   var getWeapon = function () {
