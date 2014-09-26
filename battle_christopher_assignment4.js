@@ -1,3 +1,12 @@
+
+
+/* Christopher Battle
+    September 25, 2014
+    SDI 1409
+    "Project 4"
+  */
+
+
 // alert("JavaScript works!");
 
 
