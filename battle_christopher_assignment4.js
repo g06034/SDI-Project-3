@@ -49,3 +49,25 @@ function phoneNumberPattern(phoneNumberStr)
   }
 
 };
+
+
+/*---------------------------------------------------------------*/
+// Function title case a string
+// @parameter string
+// @return bool
+// Description
+// Take a string then splits it into words and for each word capitalizes the first letter
+
+
+function titleCase(titleString)
+{
+  var wordsArray = titleString.split(" "); // first split the sentence into an array of strings(words)
+  for (var i in wordsArray) // for each word position in array
+  {
+    wordsArray[i] = wordsArray[i].charAt(0).toUpperCase()+wordsArray[i].slice(1); // set the word at that position to capitalized first letter and rest of the word
+  }
+
+  var returnTitle = wordsArray.join(" "); // now convert the array back to a string with space as a delimiter and assign it to a new var called returnstring
+
+  return returnTitle; // return the string with uppercase first letters
+};
